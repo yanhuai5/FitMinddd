@@ -1,0 +1,1 @@
+Description: SafeRoute is a navigation app with a focus on personal safety. It provides users with the safest route options based on real-time crime data and community reports. Whether walking home at night or exploring new areas, SafeRoute gives you peace of mind with turn-by-turn navigation that keeps safety as the top priority.
